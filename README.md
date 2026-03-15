@@ -1,2 +1,2 @@
 # Resume
-All my crucial details and projects!
+My details and projects!
